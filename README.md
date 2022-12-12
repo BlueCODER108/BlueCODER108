@@ -1,11 +1,8 @@
-<h1 align="center">Welcome to my world ! #BlueCODER</h1>
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]
+<h1 align="center">Welcome to my World ! #BlueCODER</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 <img align="Left" alt="Coding" width= "400" src="https://media.tenor.com/dd2Q9t5km5YAAAAM/computer-pc.gif">
-
- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluecoder108&label=Profile%20views&color=0e75b6&style=flat" alt="bluecoder108" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluecoder108" alt="bluecoder108" /></a> </p>
 
 - 🔭 I’m currently working on [Cloning Webpages](BlueCODER108.github.io)
 
@@ -31,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluecoder108&show_icons=true&locale=en" alt="bluecoder108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluecoder108&" alt="bluecoder108" /></p>
-
