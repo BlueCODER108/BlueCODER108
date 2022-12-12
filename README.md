@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm BlueCODER</h1>
+<h1 align="center">Welcome to my world ! #BlueCODER</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
+<img align="Left" alt="Coding" width= "400" src="https://media.tenor.com/dd2Q9t5km5YAAAAM/computer-pc.gif">
 <img align="right" alt="Coding" width= "400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluecoder108&label=Profile%20views&color=0e75b6&style=flat" alt="bluecoder108" /> </p>
