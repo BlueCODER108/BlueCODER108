@@ -28,5 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluecoder108&show_icons=true&locale=en" alt="bluecoder108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluecoder108&" alt="bluecoder108" /></p>
-<img align="Left" alt="Coding" width= "600" src="https://images.hive.blog/0x0/https://media.giphy.com/media/Vxts9nInEZzBYZm23L/giphy-downsized-large.gif">
-<img align="Right" alt="Coding" width= "100" src="https://i.pinimg.com/originals/31/75/58/3175581b741141257d40ed2553acddbb.gif">
+<img align="Left" alt="Coding" width= "800" src="https://images.hive.blog/0x0/https://media.giphy.com/media/Vxts9nInEZzBYZm23L/giphy-downsized-large.gif">
+<br>
+<img align="center" alt="Coding" width= "80" src="https://i.pinimg.com/originals/31/75/58/3175581b741141257d40ed2553acddbb.gif">
