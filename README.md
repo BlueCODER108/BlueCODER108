@@ -2,6 +2,7 @@
 <h1 align="center">Welcome to my World ! #BlueCODER</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 <img align="Left" alt="Coding" width= "400" src="https://media.tenor.com/dd2Q9t5km5YAAAAM/computer-pc.gif">
+<img align="Right" alt="Coding" width= "400" src="https://media.tenor.com/Yg8O2WDlGkYAAAAj/cyrentec-sci-fi.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluecoder108&label=Profile%20views&color=0e75b6&style=flat" alt="bluecoder108" /> </p>
 
 - 🔭 I’m currently working on [Cloning Webpages](BlueCODER108.github.io)
