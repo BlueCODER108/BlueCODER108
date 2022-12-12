@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bluecoder108&show_icons=true&locale=en" alt="bluecoder108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bluecoder108&" alt="bluecoder108" /></p>
+<img align="Left" alt="Coding" width= "400" src="https://i.pinimg.com/originals/31/75/58/3175581b741141257d40ed2553acddbb.gif">
